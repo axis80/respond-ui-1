@@ -14,7 +14,7 @@ export class ThemeComponent {
 
   id: string;
   role: string;
-  url: SafeResourceUrl;
+  url: SafeResourceUrl;  
   drawerVisible: boolean;
   selectImgVisible: boolean = false;
   selectImgControlTargetId: string = null;
